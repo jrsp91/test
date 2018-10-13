@@ -4,3 +4,4 @@ if hungry=="yes":
 	print ("pizza")
 else:
 	print ("do your home work")
+	print ("r u th")
